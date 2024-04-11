@@ -23,7 +23,8 @@ INSERT INTO Products (ProductID, ProductName)
 VALUES
     (1, 'Product 1'),
     (2, 'Product 2'),
-    (3, 'Product 3');
+    (3, 'Product 3'),
+    (4, 'Product 4');
 
 -- Добавление данных в таблицу Categories
 INSERT INTO Categories (CategoryID, CategoryName)
